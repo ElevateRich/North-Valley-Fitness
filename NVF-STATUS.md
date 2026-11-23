@@ -12,6 +12,17 @@ Last updated: 2026-11-04
   (Black Friday files named `bf-landing` and `bf-thanks`).
 - Leads: Zenoti guest + note + 24h opportunity, and an email to the club (cc Mike, Jonathon, Rich).
 
+## People (spelling)
+
+- **Jon** (spelled J-O-N, never "John"): NVF team member who records the funnel and ad videos.
+- **Mike**: NVF owner / decision maker on offers.
+
+## Black Friday offer (confirmed by Mike, Nov 2026)
+
+- 12 months for the price of 10, paid in full: Basic $499, Lifestyle $699.
+- Membership starts the day they buy. No free time until January.
+- Funnel videos hidden and Meta campaign paused until Jon re-records the videos.
+
 ## Who has Cloudflare access
 
 - Tom (on holiday).
