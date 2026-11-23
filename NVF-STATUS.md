@@ -22,6 +22,7 @@ Last updated: 2026-11-04
 - 12 months for the price of 10, paid in full: Basic $499, Lifestyle $699.
 - Membership starts the day they buy. No free time until January.
 - Funnel videos hidden and Meta campaign paused until Jon re-records the videos.
+- End date: 14 December 2026 (Mike told Jon; Jon confirmed to Rich on 3 Nov). Awaiting Mike's confirmation given the pause; not yet shown on the page.
 
 ## Who has Cloudflare access
 
